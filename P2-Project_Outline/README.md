@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+In a fast paced modern world, most people find it difficult to even have the opportunity to take a seat! Much less to step back and assess an often neglected aspect of mental health.
+
+So we are building a tool in which through small, easy to follow steps, we encourage people to take a little time for themselves. To take care of their body and mind with a space to lay out their thoughts and make sure they are staying hydrated. It is from these two humble steps that we hope to enable people to take further steps toward a healthier, happier life.
 ### Features
-Include Features here
+Users will be able to:
+
+Register/Login
+Create/Edit
+Calculate their water intake needs
+Track their daily water intake
+Track their mood
+View their past logs in a calendar format
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+Thymeleaf
+MySQL
+Hibernate
 ### What I'll Have to Learn
-Include what you will need to learn here
+Set up user persistence with registration and login.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/66O3VvWv/liftoff-project
+
