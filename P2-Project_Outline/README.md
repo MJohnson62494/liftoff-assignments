@@ -13,12 +13,17 @@ So we are building a tool in which through small, easy to follow steps, we encou
 ### Features
 Users will be able to:
 
-Register/Login
-Create/Edit
-Calculate their water intake needs
-Track their daily water intake
-Track their mood
-View their past logs in a calendar format
+-Register/Login
+
+-Create/Edit
+
+-Calculate their water intake needs
+
+-Track their daily water intake
+
+-Track their mood
+
+-View their past logs in a calendar format
 
 ### Technologies
 Java
