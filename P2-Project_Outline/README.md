@@ -27,10 +27,15 @@ Users will be able to:
 
 ### Technologies
 Java
+
 Spring Boot
+
 Thymeleaf
+
 MySQL
+
 Hibernate
+
 ### What I'll Have to Learn
 Set up user persistence with registration and login.
 
